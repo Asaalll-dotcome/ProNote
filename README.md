@@ -1,1 +1,2 @@
-# ProNote
+# ProNote: An Advanced To-Do List Application
+ProNote is an innovative to-do list application designed to enhance personal productivity and team collaboration. Unlike traditional to-do list apps, ProNote aims to integrate complex features such as priority setting, team collaboration, and integrated calendar views to provide a comprehensive task management experience. This platform will be indispensable for individuals looking to streamline their daily tasks, as well as teams aiming to synchronize their workflow.
